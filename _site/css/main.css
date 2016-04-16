@@ -146,6 +146,13 @@ pre {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
+  .site-title:before {
+    content: "";
+    background-image: url("/img/PB_logo@2x.png");
+    background-repeat: no-repeat;
+    background-size: 50px;
+    width: 50px;
+    height: 50px; }
 
 .site-nav {
   float: right;
