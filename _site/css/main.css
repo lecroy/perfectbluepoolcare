@@ -223,6 +223,9 @@ pre {
   .get-estimate-btn:hover {
     background: #0099e0; }
 
+.services-list {
+  margin-bottom: 80px; }
+
 /**
  * Site footer
  */
