@@ -10,7 +10,7 @@ title: Perfect Blue
 email: perfectbluepool@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   We're a full service pool care company in Winter Park, FL.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/perfectbluepoolcare" # the subpath of your site, e.g. /blog
 url: "http://perfectbluepoolcare.com" # the base hostname & protocol for your site
 
 
