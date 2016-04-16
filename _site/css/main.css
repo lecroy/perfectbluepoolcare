@@ -223,9 +223,6 @@ pre {
   .get-estimate-btn:hover {
     background: #0099e0; }
 
-.services-list {
-  margin-bottom: 80px; }
-
 /**
  * Site footer
  */
@@ -305,7 +302,7 @@ pre {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 80px; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
