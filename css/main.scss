@@ -67,4 +67,8 @@ $on-laptop:        800px;
 
 .footer-info-right {
   float: right;
+
+  @media screen and (max-width: 450px) {
+    float: none;
+  }
 }
